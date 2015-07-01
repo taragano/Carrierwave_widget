@@ -1,6 +1,8 @@
 == README
 
 Make sure to enter your credentials in the cloudinary.yml (https://github.com/taragano/Carrierwave_widget/blob/master/config/cloudinary-sample.yml).
-It can be downloaded from [here](https://cloudinary.com/console/cloudinary.yml).
+It can be downloaded from here:
+https://cloudinary.com/console/cloudinary.yml.
 
-Also, set the cloud_name and the corresponding upload preset [here](https://github.com/taragano/Carrierwave_widget/blob/master/app/views/posts/_form.html.erb#L35).
+Also, set the cloud_name and the corresponding upload preset here:
+https://github.com/taragano/Carrierwave_widget/blob/master/app/views/posts/_form.html.erb#L35.
