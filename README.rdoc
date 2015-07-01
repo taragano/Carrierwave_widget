@@ -1,28 +1,6 @@
 == README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Make sure to enter your credentials in the cloudinary.yml (https://github.com/taragano/Carrierwave_widget/blob/master/config/cloudinary-sample.yml).
+It can be downloaded from [here](https://cloudinary.com/console/cloudinary.yml).
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+Also, set the cloud_name and the corresponding upload preset [here](https://github.com/taragano/Carrierwave_widget/blob/master/app/views/posts/_form.html.erb#L35).
